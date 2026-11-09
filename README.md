@@ -12,3 +12,4 @@ The pages are study aids. They are not legal advice.
 | :--- | :--- |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
+| Family Code, Article 36 | [Psychological incapacity](03-civil-law/family-code/title-01-marriage/art-036.md) |
