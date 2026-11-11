@@ -43,6 +43,9 @@ jobs:
         run: |
           npm ci
           npx quartz build
+      - name: Add Google verification file
+        run: |
+          cp pages-src/googleffb8e289051d2773.html quartz/public/
 
       - uses: actions/upload-pages-artifact@v3
         with:
