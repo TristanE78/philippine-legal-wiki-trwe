@@ -47,6 +47,10 @@ jobs:
         run: |
           npm ci
           npx quartz build
+      - name: Version stylesheet links
+        run: |
+          find quartz/public -name '*.html' -exec sed -i "s|index.css\"|index.css?v=${GITHUB_SHA}\"|g" {} +
+
       - name: Add Google verification file
         run: |
           cp pages-src/googleffb8e289051d2773.html quartz/public/
