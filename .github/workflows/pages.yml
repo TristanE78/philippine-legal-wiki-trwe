@@ -38,6 +38,10 @@ jobs:
           cd quartz
           sed -i 's|pageTitle: "Quartz 4"|pageTitle: "Philippine Legal Wiki"|; s|baseUrl: "quartz.jzhao.xyz"|baseUrl: "tristane78.github.io/philippine-legal-wiki-trwe"|; /Plugin.CustomOgImages()/d' quartz.config.ts
 
+      - name: Justify article paragraphs
+        run: |
+          printf '\narticle p { text-align: justify; }\n' >> quartz/quartz/styles/custom.scss
+
       - name: Build site
         working-directory: quartz
         run: |
