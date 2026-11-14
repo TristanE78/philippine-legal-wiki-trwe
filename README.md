@@ -1,6 +1,6 @@
 # Philippine Legal Wiki (public pages)
 
-This repository holds reviewed pages from the Philippine Legal Wiki.
+This repository publishes selected pages from the Philippine Legal Wiki. Pages marked **candidate** are awaiting review.
 
 Each page explains one provision and quotes the Supreme Court majority with a link to its source.
 
@@ -15,3 +15,4 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
 | Family Code, Article 26 | [Marriages celebrated abroad and foreign divorce](03-civil-law/family-code/title-01-marriage/art-026.md) |
 | Family Code, Article 36 | [Psychological incapacity](03-civil-law/family-code/title-01-marriage/art-036.md) |
+| Family Code, Article 147 | [Property relations without marriage or under a void marriage (candidate)](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-147.md) |
