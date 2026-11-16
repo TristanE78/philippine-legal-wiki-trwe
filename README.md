@@ -18,5 +18,6 @@ The pages are study aids. They are not legal advice.
 | Family Code, Article 3 | [Formal requisites of marriage](03-civil-law/family-code/title-01-marriage/art-003.md) |
 | Family Code, Article 4 | [Effects of absence, defect or irregularity in marriage requisites (candidate)](03-civil-law/family-code/title-01-marriage/art-004.md) |
 | Family Code, Article 26 | [Marriages celebrated abroad and foreign divorce](03-civil-law/family-code/title-01-marriage/art-026.md) |
+| Family Code, Article 35 | [Void marriages ab initio](03-civil-law/family-code/title-01-marriage/art-035.md) |
 | Family Code, Article 36 | [Psychological incapacity](03-civil-law/family-code/title-01-marriage/art-036.md) |
 | Family Code, Article 147 | [Property relations without marriage or under a void marriage (candidate)](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-147.md) |
