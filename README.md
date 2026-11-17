@@ -11,6 +11,7 @@ The pages are study aids. They are not legal advice.
 | Provision | Page |
 | :--- | :--- |
 | Civil Code, Article 2 | [Publication and effectivity of laws](03-civil-law/civil-code/preliminary-title/art-0002.md) |
+| Civil Code, Article 3 | [Ignorance of the law](03-civil-law/civil-code/preliminary-title/art-0003.md) |
 | Civil Code, Article 4 | [Non-retroactivity of laws](03-civil-law/civil-code/preliminary-title/art-0004.md) |
 | Civil Code, Article 5 | [Acts against mandatory or prohibitory laws](03-civil-law/civil-code/preliminary-title/art-0005.md) |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
