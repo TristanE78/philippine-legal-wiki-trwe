@@ -15,6 +15,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 4 | [Non-retroactivity of laws](03-civil-law/civil-code/preliminary-title/art-0004.md) |
 | Civil Code, Article 5 | [Acts against mandatory or prohibitory laws](03-civil-law/civil-code/preliminary-title/art-0005.md) |
 | Civil Code, Article 6 | [Waiver of rights](03-civil-law/civil-code/preliminary-title/art-0006.md) |
+| Civil Code, Article 16 | [Lex rei sitae and national law in succession](03-civil-law/civil-code/preliminary-title/art-0016.md) |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
 | Family Code, Article 1 | [Definition and nature of marriage](03-civil-law/family-code/title-01-marriage/art-001.md) |
