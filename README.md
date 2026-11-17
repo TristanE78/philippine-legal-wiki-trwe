@@ -17,10 +17,10 @@ The pages are study aids. They are not legal advice.
 | Family Code, Article 1 | [Definition and nature of marriage](03-civil-law/family-code/title-01-marriage/art-001.md) |
 | Family Code, Article 2 | [Essential requisites of marriage](03-civil-law/family-code/title-01-marriage/art-002.md) |
 | Family Code, Article 3 | [Formal requisites of marriage](03-civil-law/family-code/title-01-marriage/art-003.md) |
-| Family Code, Article 4 | [Effects of absence, defect or irregularity in marriage requisites (candidate)](03-civil-law/family-code/title-01-marriage/art-004.md) |
+| Family Code, Article 4 | [Effects of absence, defect or irregularity in marriage requisites](03-civil-law/family-code/title-01-marriage/art-004.md) |
 | Family Code, Article 26 | [Marriages celebrated abroad and foreign divorce](03-civil-law/family-code/title-01-marriage/art-026.md) |
 | Family Code, Article 35 | [Void marriages ab initio](03-civil-law/family-code/title-01-marriage/art-035.md) |
 | Family Code, Article 36 | [Psychological incapacity](03-civil-law/family-code/title-01-marriage/art-036.md) |
-| Family Code, Article 68 | [Rights and obligations of spouses (candidate)](03-civil-law/family-code/title-03-rights-and-obligations-between-husband-a/art-068.md) |
-| Family Code, Article 147 | [Property relations without marriage or under a void marriage (candidate)](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-147.md) |
+| Family Code, Article 68 | [Rights and obligations of spouses](03-civil-law/family-code/title-03-rights-and-obligations-between-husband-a/art-068.md) |
+| Family Code, Article 147 | [Property relations without marriage or under a void marriage](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-147.md) |
 | Family Code, Article 148 | [Property relations in cohabitation outside Article 147](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-148.md) |
