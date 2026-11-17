@@ -11,6 +11,7 @@ The pages are study aids. They are not legal advice.
 | Provision | Page |
 | :--- | :--- |
 | Civil Code, Article 2 | [Publication and effectivity of laws](03-civil-law/civil-code/preliminary-title/art-0002.md) |
+| Civil Code, Article 4 | [Non-retroactivity of laws](03-civil-law/civil-code/preliminary-title/art-0004.md) |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
 | Family Code, Article 1 | [Definition and nature of marriage](03-civil-law/family-code/title-01-marriage/art-001.md) |
