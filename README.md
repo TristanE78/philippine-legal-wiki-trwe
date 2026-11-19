@@ -18,6 +18,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 16 | [Lex rei sitae and national law in succession](03-civil-law/civil-code/preliminary-title/art-0016.md) |
 | Civil Code, Article 17 | [Lex loci celebrationis, consular solemnities and public policy](03-civil-law/civil-code/preliminary-title/art-0017.md) |
 | Civil Code, Article 19 | [Abuse of rights, justice and good faith](03-civil-law/civil-code/preliminary-title/art-0019.md) |
+| Civil Code, Article 20 | [Liability for acts contrary to law](03-civil-law/civil-code/preliminary-title/art-0020.md) |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
 | Family Code, Article 1 | [Definition and nature of marriage](03-civil-law/family-code/title-01-marriage/art-001.md) |
