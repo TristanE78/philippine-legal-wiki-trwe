@@ -21,6 +21,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 20 | [Liability for acts contrary to law](03-civil-law/civil-code/preliminary-title/art-0020.md) |
 | Civil Code, Article 21 | [Willful acts contrary to morals, good customs or public policy](03-civil-law/civil-code/preliminary-title/art-0021.md) |
 | Civil Code, Article 33 | [Independent civil action for defamation, fraud and physical injuries](03-civil-law/civil-code/preliminary-title/art-0033.md) |
+| Civil Code, Article 476 | [Quieting of title and removal of cloud](03-civil-law/civil-code/book-2-title-02-ownership/art-0476.md) |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
 | Family Code, Article 1 | [Definition and nature of marriage](03-civil-law/family-code/title-01-marriage/art-001.md) |
