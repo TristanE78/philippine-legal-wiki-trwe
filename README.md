@@ -33,6 +33,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 2200 | [Actual loss and lost profits](03-civil-law/civil-code/book-4-title-18-damages-1/art-2200.md) |
 | Civil Code, Article 2201 | [Damages for breach of contract or quasi-contract](03-civil-law/civil-code/book-4-title-18-damages-1/art-2201.md) |
 | Civil Code, Article 2202 | [Natural and probable consequences in crimes and quasi-delicts](03-civil-law/civil-code/book-4-title-18-damages-1/art-2202.md) |
+| Civil Code, Article 2208 | [Attorney's fees and litigation expenses](03-civil-law/civil-code/book-4-title-18-damages-1/art-2208.md) |
 | Family Code, Article 1 | [Definition and nature of marriage](03-civil-law/family-code/title-01-marriage/art-001.md) |
 | Family Code, Article 2 | [Essential requisites of marriage](03-civil-law/family-code/title-01-marriage/art-002.md) |
 | Family Code, Article 3 | [Formal requisites of marriage](03-civil-law/family-code/title-01-marriage/art-003.md) |
