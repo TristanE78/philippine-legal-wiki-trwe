@@ -15,6 +15,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 4 | [Non-retroactivity of laws](03-civil-law/civil-code/preliminary-title/art-0004.md) |
 | Civil Code, Article 5 | [Acts against mandatory or prohibitory laws](03-civil-law/civil-code/preliminary-title/art-0005.md) |
 | Civil Code, Article 6 | [Waiver of rights](03-civil-law/civil-code/preliminary-title/art-0006.md) |
+| Civil Code, Article 7 | [Repeal of laws, constitutional supremacy and administrative acts](03-civil-law/civil-code/preliminary-title/art-0007.md) |
 | Civil Code, Article 16 | [Lex rei sitae and national law in succession](03-civil-law/civil-code/preliminary-title/art-0016.md) |
 | Civil Code, Article 17 | [Lex loci celebrationis, consular solemnities and public policy](03-civil-law/civil-code/preliminary-title/art-0017.md) |
 | Civil Code, Article 19 | [Abuse of rights, justice and good faith](03-civil-law/civil-code/preliminary-title/art-0019.md) |
