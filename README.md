@@ -20,6 +20,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 19 | [Abuse of rights, justice and good faith](03-civil-law/civil-code/preliminary-title/art-0019.md) |
 | Civil Code, Article 20 | [Liability for acts contrary to law](03-civil-law/civil-code/preliminary-title/art-0020.md) |
 | Civil Code, Article 21 | [Willful acts contrary to morals, good customs or public policy](03-civil-law/civil-code/preliminary-title/art-0021.md) |
+| Civil Code, Article 31 | [Civil actions independent of criminal proceedings](03-civil-law/civil-code/preliminary-title/art-0031.md) |
 | Civil Code, Article 33 | [Independent civil action for defamation, fraud and physical injuries](03-civil-law/civil-code/preliminary-title/art-0033.md) |
 | Civil Code, Article 476 | [Quieting of title and removal of cloud](03-civil-law/civil-code/book-2-title-02-ownership/art-0476.md) |
 | Civil Code, Article 477 | [Standing and non-possession in quieting of title](03-civil-law/civil-code/book-2-title-02-ownership/art-0477.md) |
