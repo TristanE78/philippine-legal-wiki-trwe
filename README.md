@@ -28,6 +28,7 @@ The pages are study aids. They are not legal advice.
 | Civil Code, Article 478 | [Quieting title after extinguishment, termination or prescription](03-civil-law/civil-code/book-2-title-02-ownership/art-0478.md) |
 | Civil Code, Article 484 | [Concept of co-ownership and governing law](03-civil-law/civil-code/book-2-title-03-co-ownership/art-0484.md) |
 | Civil Code, Article 487 | [Action in ejectment by any co-owner](03-civil-law/civil-code/book-2-title-03-co-ownership/art-0487.md) |
+| Civil Code, Article 539 | [Protection and restoration of possession](03-civil-law/civil-code/book-2-title-05-possession/art-0539.md) |
 | Civil Code, Article 2176 | [Quasi-Delicts](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2176.md) |
 | Civil Code, Article 2180 | [Vicarious liability](03-civil-law/civil-code/book-4-title-17-extra-contractual-obligations/art-2180.md) |
 | Civil Code, Article 2199 | [Actual or compensatory damages](03-civil-law/civil-code/book-4-title-18-damages-1/art-2199.md) |
