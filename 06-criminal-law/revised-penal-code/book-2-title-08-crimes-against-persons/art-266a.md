@@ -8,9 +8,9 @@ tags:
   - criminal-law
   - revised-penal-code
   - rape
-status: draft
-review_status: candidate
-publication_approved: false
+status: stable
+review_status: reviewed
+publication_approved: true
 generated:
   by: claude/claude-sonnet-5-5
   at: "2026-10-22T05:50:00Z"
@@ -557,6 +557,10 @@ sources:
     separate_opinions_start: null
     sha256: "6286d64493bfcb0c3a29129b4b9d4faaa361360c78b1a3b964913f5ca4d794ba"
     check: pass
+amended_by:
+- ../../anti-rape-law-of-1997-ra-8353/sec-02.md
+- ../../stronger-protection-against-rape-and-sexual-exploitation-ra-11648/sec-01.md
+note: Partial amendment. RA 11648 amends the lead-in of paragraph 1 and paragraph 1(d) only. The codal text above is the text of RA 8353. A composite current text is not drafted, to avoid inventing wording.
 ---
 
 > Article 266-A. Rape; When And How Committed. – Rape Is Committed –
