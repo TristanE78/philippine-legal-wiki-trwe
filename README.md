@@ -47,5 +47,6 @@ The pages are study aids. They are not legal advice.
 | Family Code, Article 147 | [Property relations without marriage or under a void marriage](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-147.md) |
 | Family Code, Article 148 | [Property relations in cohabitation outside Article 147](03-civil-law/family-code/title-04-property-relations-between-husband-and-w/art-148.md) |
 | Revised Penal Code, Article 124 | [Arbitrary detention](06-criminal-law/revised-penal-code/book-2-title-02-crimes-against-the-fundamental-laws-of-t/art-124.md) |
+| Revised Penal Code, Article 148 | [Direct assault](06-criminal-law/revised-penal-code/book-2-title-03-crimes-against-public-order/art-148.md) |
 | Revised Penal Code, Article 248 | [Murder](06-criminal-law/revised-penal-code/book-2-title-08-crimes-against-persons/art-248.md) |
 | Revised Penal Code, Article 266-A | [Rape](06-criminal-law/revised-penal-code/book-2-title-08-crimes-against-persons/art-266a.md) |
