@@ -36,7 +36,7 @@ jobs:
           rsync -a --exclude=.git --exclude=.github --exclude=README.md pages-src/ quartz/content/
           { printf -- '---\ntitle: Philippine Legal Wiki\n---\n'; sed '1{/^# /d}' pages-src/README.md; } > quartz/content/index.md
           cd quartz
-          sed -i 's|pageTitle: "Quartz 4"|pageTitle: "Philippine Legal Wiki"|; s|baseUrl: "quartz.jzhao.xyz"|baseUrl: "tristane78.github.io/philippine-legal-wiki-trwe"|; /Plugin.CustomOgImages()/d' quartz.config.ts
+          sed -i 's|pageTitle: "Quartz 4"|pageTitle: "Philippine Legal Wiki"|; s|baseUrl: "quartz.jzhao.xyz"|baseUrl: "tristane78.github.io/philippine-legal-wiki-trwe"|; /Plugin.CustomOgImages()/d; s|markdownLinkResolution: "shortest"|markdownLinkResolution: "relative"|' quartz.config.ts
 
       - name: Sort navigation and folder lists by article number
         run: |
