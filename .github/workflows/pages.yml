@@ -38,6 +38,41 @@ jobs:
           cd quartz
           sed -i 's|pageTitle: "Quartz 4"|pageTitle: "Philippine Legal Wiki"|; s|baseUrl: "quartz.jzhao.xyz"|baseUrl: "tristane78.github.io/philippine-legal-wiki-trwe"|; /Plugin.CustomOgImages()/d; s|markdownLinkResolution: "shortest"|markdownLinkResolution: "relative"|' quartz.config.ts
 
+      - name: Show links to unpublished pages as plain text
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          root = Path("quartz/content")
+          pages = {p.relative_to(root).as_posix() for p in root.rglob("*.md")}
+          link = re.compile(r'(?<!!)\[((?:[^\[\]]|\[[^\]]*\])*)\]\(([^)\s#]+\.md)(#[^)\s]*)?\)')
+          kept = dropped = 0
+          for p in root.rglob("*.md"):
+              rel = p.relative_to(root).as_posix()
+              base = rel.rsplit("/", 1)[0] if "/" in rel else ""
+              text = p.read_text(encoding="utf-8")
+              def fix(m):
+                  global kept, dropped
+                  target = m.group(2)
+                  if re.match(r"[a-z]+://", target):
+                      return m.group(0)
+                  parts = [] if target.startswith("/") else base.split("/") if base else []
+                  for seg in target.lstrip("/").split("/"):
+                      if seg == "..":
+                          if parts: parts.pop()
+                      elif seg not in ("", "."):
+                          parts.append(seg)
+                  if "/".join(parts) in pages:
+                      kept += 1
+                      return m.group(0)
+                  dropped += 1
+                  return m.group(1)
+              new = link.sub(fix, text)
+              if new != text:
+                  p.write_text(new, encoding="utf-8")
+          print(f"links kept: {kept}, links to unpublished pages shown as text: {dropped}")
+          PY
+
       - name: Sort navigation and folder lists by article number
         run: |
           python3 - <<'PY'
