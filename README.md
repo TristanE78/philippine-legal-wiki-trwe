@@ -50,3 +50,4 @@ The pages are study aids. They are not legal advice.
 | Revised Penal Code, Article 148 | [Direct assault](06-criminal-law/revised-penal-code/book-2-title-03-crimes-against-public-order/art-148.md) |
 | Revised Penal Code, Article 248 | [Murder](06-criminal-law/revised-penal-code/book-2-title-08-crimes-against-persons/art-248.md) |
 | Revised Penal Code, Article 266-A | [Rape](06-criminal-law/revised-penal-code/book-2-title-08-crimes-against-persons/art-266a.md) |
+| Revised Penal Code, Article 353 | [Definition of libel](06-criminal-law/revised-penal-code/book-2-title-13-crimes-against-honor/art-353.md) |
